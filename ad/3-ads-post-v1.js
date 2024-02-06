@@ -1,0 +1,1 @@
+$(function(){"use strict";$("#postAD-top-technomee")["append"]($("#HTML201"));$("#postAD-bottom-technomee")["append"]($("#HTML203"));var tmcenteradb=Math.floor($(".post-body *")["length"]/2);$(".post-body *:eq("+tmcenteradb+")")["after"]($("#HTML202"))})
